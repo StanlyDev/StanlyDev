@@ -10,24 +10,24 @@ I also specialize in building web and database servers. I use VMware ESXi to con
 
 ### 🛠️ Skills
 
-- Front-End Web Development:** HTML, CSS, JavaScript
-- Back-End Web Development:** PHP, NodeJS, Express.js
-- Database Management:** SQL Server, PHPMyAdmin
-- Web Server:** NGINX, APACHE
-- Virtualization:** VMware ESXi
-- Operating Systems:** Linux Ubuntu Server, other Linux variants
+- **Front-End Web Development:** HTML, CSS, JavaScript
+- **Back-End Web Development:** PHP, NodeJS, Express.js
+- **Database Management:** SQL Server, PHPMyAdmin
+- **Web Server:** NGINX, APACHE
+- **Virtualization:** VMware ESXi
+- **Operating Systems:** Linux Ubuntu Server, other Linux variants
 
 ### 🔧 Technologies
 
-- Programming Languages:** HTML, CSS, JavaScript, PHP, NodeJS
+- **Programming Languages:** HTML, CSS, JavaScript, PHP, NodeJS
 - **Frameworks and Libraries:** Bootstrap, Express.js
-- Tools and Servers:** NGINX, APACHE, Postfix
-- Databases:** SQL Server, PHPMyAdmin
+- **Tools and Servers:** NGINX, APACHE, Postfix
+- **Databases:** SQL Server, PHPMyAdmin
 
 ## Contact
 
 - **Email**: [stanvsdev@gmail.com](mailto:stanvsdev@gmail.com)
-- LinkedIn:** [Brandon Stanly Ventura Sanchez](https://www.linkedin.com/in/brandon-stanly-ventura-sanchez-bb5b37242/)
+- **LinkedIn:** [Brandon Stanly Ventura Sanchez](https://www.linkedin.com/in/brandon-stanly-ventura-sanchez-bb5b37242/)
 - **Facebook:** [StanlyDev](https://www.facebook.com/profile.php?id=61562996433629&is_tour_dismissed)
 
 Thanks for visiting my profile! Feel free to contact me for any questions or collaboration.
