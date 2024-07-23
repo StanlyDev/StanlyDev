@@ -1,33 +1,33 @@
-# Hola, soy StanlyDev 👋
+## Hi, I'm StanlyDev 👋
 
-## Sobre Mí
+## About me
 
-Soy Desarrollador Web (Front-End) 🖥️ con un enfoque en codificación web y frameworks. Como desarrollador junior, practico casi a diario y desarrollo aplicaciones web orientadas a la gestión, logística, e inventario, además de trabajar tanto en Front-End como en Back-End.
+I'm a Web Developer (Front-End) 🖥️ with a focus on web coding and frameworks. As a junior developer, I practice almost daily and develop web applications geared towards management, logistics, and inventory, as well as working in both Front-End and Back-End.
 
-También me especializo en la creación de servidores web y de bases de datos. Utilizo VMware ESXi para configurar máquinas virtuales para hosting, trabajando principalmente con NGINX o APACHE y Linux Ubuntu Server o variantes de Linux para hosting y virtualización.
+I also specialize in building web and database servers. I use VMware ESXi to configure virtual machines for hosting, working mainly with NGINX or APACHE and Linux Ubuntu Server or Linux variants for hosting and virtualization.
 
-## Habilidades y Tecnologías
+## Skills and Technologies
 
-### 🛠️ Habilidades
+### 🛠️ Skills
 
-- **Desarrollo Web Front-End:** HTML, CSS, JavaScript
-- **Desarrollo Web Back-End:** PHP, NodeJS, Express.js
-- **Gestión de Bases de Datos:** SQL Server, PHPMyAdmin
-- **Servidor Web:** NGINX, APACHE
-- **Virtualización:** VMware ESXi
-- **Sistemas Operativos:** Linux Ubuntu Server, otras variantes de Linux
+- Front-End Web Development:** HTML, CSS, JavaScript
+- Back-End Web Development:** PHP, NodeJS, Express.js
+- Database Management:** SQL Server, PHPMyAdmin
+- Web Server:** NGINX, APACHE
+- Virtualization:** VMware ESXi
+- Operating Systems:** Linux Ubuntu Server, other Linux variants
 
-### 🔧 Tecnologías
+### 🔧 Technologies
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, PHP, NodeJS
-- **Frameworks y Librerías:** Bootstrap, Express.js
-- **Herramientas y Servidores:** NGINX, APACHE, Postfix
-- **Base de Datos:** SQL Server, PHPMyAdmin
+- Programming Languages:** HTML, CSS, JavaScript, PHP, NodeJS
+- **Frameworks and Libraries:** Bootstrap, Express.js
+- Tools and Servers:** NGINX, APACHE, Postfix
+- Databases:** SQL Server, PHPMyAdmin
 
-## Contacto
+## Contact
 
-- **Correo Electrónico**: [stanvsdev@gmail.com](mailto:stanvsdev@gmail.com)
-- **LinkedIn:** [Brandon Stanly Ventura Sanchez](https://www.linkedin.com/in/brandon-stanly-ventura-sanchez-bb5b37242/)
+- **Email**: [stanvsdev@gmail.com](mailto:stanvsdev@gmail.com)
+- LinkedIn:** [Brandon Stanly Ventura Sanchez](https://www.linkedin.com/in/brandon-stanly-ventura-sanchez-bb5b37242/)
 - **Facebook:** [StanlyDev](https://www.facebook.com/profile.php?id=61562996433629&is_tour_dismissed)
 
-¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier pregunta o colaboración.
+Thanks for visiting my profile! Feel free to contact me for any questions or collaboration.
